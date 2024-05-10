@@ -1,0 +1,23 @@
+html { background-color: black;}
+
+
+
+h1 {font-family: LibreBaskerville, cursive; color: white; text-transform: uppercase; } 
+
+#dancing { 
+
+    border: 5px solid white;
+
+}
+
+
+#divi { 
+  text-align: center;  
+  margin-top: 50px;
+    
+
+}
+
+
+p {font-family: LibreBaskerville; cursive; color: white; }
+
